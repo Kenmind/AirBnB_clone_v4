@@ -155,7 +155,7 @@ No known bugs at this time.__
 
 ## Authors
 Kennedy Kalaluka - [Github](https://github.com/Kenmind) / [Twitter](https://twitter.com/Kennedy_Sibeso)
-Arsene Awounou - [Github](https://github.com/underscoDe) / [Twitter](https://twitter.com/)
+Arsene Awounou - [Github](https://github.com/underscoDe) / [Twitter](https://twitter.com/NoukpoArsene)
 
 Third part of Airbnb: Jhoan Stiven Zamora
 ## License
