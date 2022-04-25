@@ -20,7 +20,7 @@ def close_db(error):
     storage.close()
 
 
-@app.route('/3-hbnb/')
+@app.route('/4-hbnb/')
 def hbnb(an_id=None):
     """ HBNB is alive! """
     state_obj = storage.all(State).values()
@@ -31,7 +31,7 @@ def hbnb(an_id=None):
                  for user in storage.all('User').values())
     cache_id = uuid.uuid4()
     c_id = (str(cache_id))
-    return render_template('3-hbnb.html',
+    return render_template('4-hbnb.html',
                            states=states,
                            amenities=amenities,
                            places=places,
